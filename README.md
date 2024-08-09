@@ -63,6 +63,6 @@ Bar chart of median revenue by genre type for resilience to outliers
     * release-date-timeline.png
 
 ### Link to Presentation
-![film-analysis-presentation](https://github.com/jaredlil/project-2/blob/master/film-analysis-presentation.pdf)
+![film-analysis-presentation.pdf](https://github.com/jaredlil/Phase_2_Project_Film/blob/main/film-analysis-presentation.pdf)
 ### Link to Blog
 https://datasciencedigested.blogspot.com/2024/08/wasted-time-and-effort.html
