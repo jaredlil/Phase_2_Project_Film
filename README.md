@@ -20,7 +20,7 @@ The data utilized came primarily from 3 websites listed below. In order to draw 
 
 ### Visualizations used in analysis
 Scatterplot of financially successful films
-![production_budget_scatterplot](images-graphs/production_budget.png)
+![production_budget_scatterplot](images-graphs/production-budget.png)
 
 Line graph of when films with the highest average gross are released
 ![release-date-timeline](images-graphs/release-date-timeline.png)
